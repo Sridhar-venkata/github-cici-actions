@@ -1,6 +1,6 @@
 
 
-name: CICD with Maven
+name: CICD with Maven Github
 
 on:
   push:
