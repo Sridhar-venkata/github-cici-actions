@@ -9,7 +9,7 @@ public class Simple {
     @GetMapping("/wish")
     public String wish()
     {
-        return "Happy birthday to you...";
+        return "Happy birthday to you.....";
     }
 
 }
